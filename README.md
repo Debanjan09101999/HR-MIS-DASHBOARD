@@ -29,4 +29,4 @@ Analyzes workforce metrics across 10 key business units (Operations, Sales, IT, 
 - Historical Baseline: Consistent onboarding averaging ~710 joins per year from 2019 through 2025.
 
 # Dashboard Preview
-![alt text]()
+![alt text](https://github.com/Debanjan09101999/HR-MIS-DASHBOARD/blob/main/Hr%20dashboard.png)
